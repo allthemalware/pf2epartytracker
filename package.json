@@ -10,13 +10,13 @@
     "tracker",
     "ttrpg"
   ],
-  "homepage": "https://thewhytewolf.github.io/pf2epartytracker/",
+  "homepage": "https://allthemalware.github.io/pf2epartytracker/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheWhyteWolf/pf2epartytracker.git"
+    "url": "git+https://github.com/allthemalware/pf2epartytracker.git"
   },
   "bugs": {
-    "url": "https://github.com/TheWhyteWolf/pf2epartytracker/issues"
+    "url": "https://github.com/allthemalware/pf2epartytracker/issues"
   },
   "author": "Whyte",
   "license": "SEE LICENSE IN LICENSE",
